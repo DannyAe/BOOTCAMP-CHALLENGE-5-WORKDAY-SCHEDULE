@@ -4,7 +4,11 @@ by Danny Martinez
 
 ## Description 
 
-Create a work day scheduler to organize and schedule a work day. Set hour of operations, added hourly color coding. hours no longer available appear in grey, current hour shows red, upcoming hours show green. each task can be saved in local storage.
+This is a work day scheduler to organize and schedule a work day. Set hour of operations, added hourly color coding. hours no longer available appear in grey, current hour shows red, upcoming hours show green. each task can be saved in local storage.
+  
+## Project Folder in Git Hub
+  
+https://github.com/DannyAe/work-day-scheduler-challenge
 
 ## Deployed Application
 
