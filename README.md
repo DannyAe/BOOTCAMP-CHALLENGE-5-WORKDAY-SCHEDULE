@@ -12,7 +12,7 @@ https://github.com/DannyAe/work-day-scheduler-challenge
 
 ## Deployed Application
 
-The deployed application can be found at this link:
+https://dannyae.github.io/work-day-scheduler-challenge/
 
 
 ## screenshot
