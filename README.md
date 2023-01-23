@@ -16,3 +16,7 @@ The deployed application can be found at this link:
 
 
 ## screenshot
+  
+<img src="https://github.com/DannyAe/work-day-scheduler-challenge/blob/main/images/work-day-scheduler.png" alt="Working App" width="600">
+  
+  
